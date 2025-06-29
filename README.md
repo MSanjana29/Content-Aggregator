@@ -1,2 +1,2 @@
 # Content-Aggregator
-Gather the content and give links based upon user interest
+In the digital age, users are overwhelmed with information from multiple news platforms, blogs, and social media channels. This project presents a Content Aggregation System that intelligently gathers, filters, and summarizes data from diverse sources such as RSS feeds and news websites.  By integrating tools like Newspaper3k, BeautifulSoup, NLTK, and TF-IDF-based summarization.
